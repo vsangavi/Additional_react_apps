@@ -1,5 +1,6 @@
 ### This app is simple Ui color  picker which displays various colors 
 ### Material ui react framework is used along with some css effects
 
-## // with npm
+### To install 
 ## npm install @material-ui/core
+# Screenshot
